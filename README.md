@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johncapt
-- 👀 I’m interested in Software development (Vuejs, Nodejs)
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning donetcore
 
 <!---
