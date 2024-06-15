@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johncapt
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning donetcore
+- 🌱 I’m enjoy learning AI
 
 <!---
 johncapt/johncapt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
